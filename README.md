@@ -1,18 +1,39 @@
-# Muhammad Ahsan Shaaf — Portfolio V5 Final
+# Muhammad Ahsan Shaaf — Portfolio V6 Production
 
-Production GitHub Pages portfolio for `https://iamahsanshaaf.github.io/`.
+Production-ready static portfolio for **https://iamahsanshaaf.github.io/**.
 
-## V5 changes
-- Real Google Play app icons stored locally.
-- Apple app icons loaded from Apple's public Lookup API, with local app-specific fallbacks.
-- Exact App Store product links for the primary iOS cards.
-- Store section renamed and clarified to avoid implying ownership of every publisher account.
-- Upwork added.
-- WhatsApp corrected to +92 345 4230761 / 923454230761.
-- Polished reveal animations, card spotlights, portrait tilt, animated ambient glow, active nav, and scroll progress.
-- `prefers-reduced-motion` support.
+## V6 changes
+
+- Replaced the generated services poster with real responsive HTML/CSS capability cards.
+- Fixed text overflow risk with `minmax(0, 1fr)`, `min-width: 0`, and explicit wrapping.
+- Reordered the site hierarchy: Work → Apps → Expertise → Experience → About → Contact.
+- Added a dedicated About section and stronger engineering-principles block.
+- Refined WhatsApp, LinkedIn, GitHub, Upwork, X, and email contact hierarchy.
+- Preserved local Android app icons and Apple artwork fallback strategy.
+- Improved keyboard/menu behavior, active navigation, reduced-motion behavior, and pointer effects.
+- Removed unused poster assets from the production package.
+- Cache-busted CSS / JS / major imagery to V6.
 
 ## Deploy
-Upload the extracted contents to the root of `iamahsanshaaf/iamahsanshaaf.github.io` and commit to `main`.
 
-Suggested commit: `Launch final portfolio V5`
+Upload the **contents** of this folder to the root of:
+
+`iamahsanshaaf/iamahsanshaaf.github.io`
+
+Recommended commit:
+
+`Launch production portfolio V6`
+
+GitHub Pages remains configured as:
+
+- Branch: `main`
+- Folder: `/ (root)`
+
+## Contact configuration
+
+- Email: `ahsanshaaf@gmail.com`
+- WhatsApp: `+92 345 4230761`
+- LinkedIn: `https://www.linkedin.com/in/iamahsanshaaf/`
+- GitHub: `https://github.com/iamahsanshaaf`
+- Upwork: `https://www.upwork.com/freelancers/~01b0c67a46e1b2b13a`
+- X: `https://x.com/iamAhsanShaaf`
