@@ -1,0 +1,9 @@
+{
+  "name": "Muhammad Ahsan Shaaf Portfolio",
+  "short_name": "Ahsan Shaaf",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090A0C",
+  "theme_color": "#090A0C",
+  "icons": []
+}

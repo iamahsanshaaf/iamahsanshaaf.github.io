@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 560">
+<defs>
+  <linearGradient id="g" x1="112" y1="95" x2="453" y2="463" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#7EA0FF"/><stop offset="1" stop-color="#4F7CFF"/>
+  </linearGradient>
+</defs>
+<circle cx="280" cy="280" r="214" fill="#0D1118" stroke="#FFFFFF" stroke-opacity=".08"/>
+<circle cx="280" cy="280" r="155" fill="none" stroke="#7EA0FF" stroke-opacity=".14"/>
+<circle cx="280" cy="280" r="96" fill="url(#g)" opacity=".11"/>
+<circle cx="280" cy="280" r="56" fill="#4F7CFF" opacity=".2" stroke="#7EA0FF" stroke-opacity=".48"/>
+<path d="M255 282h50M285 252l20 30-20 30" fill="none" stroke="#7EA0FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#141A24" stroke="#FFFFFF" stroke-opacity=".08">
+  <rect x="72" y="120" width="124" height="72" rx="18"/>
+  <rect x="364" y="118" width="124" height="72" rx="18"/>
+  <rect x="66" y="365" width="136" height="72" rx="18"/>
+  <rect x="358" y="370" width="136" height="72" rx="18"/>
+</g>
+<g font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">
+  <text x="134" y="163" text-anchor="middle">ANDROID</text>
+  <text x="426" y="161" text-anchor="middle">iOS</text>
+  <text x="134" y="408" text-anchor="middle">PRODUCT</text>
+  <text x="426" y="413" text-anchor="middle">LAUNCH</text>
+</g>
+<path d="M192 158 231 224M368 157 329 224M198 393 235 337M362 398 326 338" stroke="#7EA0FF" stroke-opacity=".3" stroke-width="2" stroke-dasharray="5 7"/>
+</svg>
