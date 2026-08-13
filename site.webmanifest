@@ -1,9 +1,15 @@
 {
   "name": "Muhammad Ahsan Shaaf Portfolio",
   "short_name": "Ahsan Shaaf",
-  "start_url": "./",
+  "start_url": "/",
   "display": "standalone",
-  "background_color": "#090A0C",
-  "theme_color": "#090A0C",
-  "icons": []
+  "background_color": "#040914",
+  "theme_color": "#040914",
+  "icons": [
+    {
+      "src": "/assets/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
 }
