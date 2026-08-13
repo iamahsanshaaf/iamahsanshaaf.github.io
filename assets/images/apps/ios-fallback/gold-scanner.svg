@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+    <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A97514"/><stop offset="1" stop-color="#FFD866"/></linearGradient></defs>
+    <rect width="256" height="256" rx="58" fill="#071124"/><rect x="3" y="3" width="250" height="250" rx="55" fill="url(#g)" opacity=".95"/>
+    <circle cx="128" cy="112" r="62" fill="#071124" opacity=".18"/>
+    <text x="128" y="136" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="800" fill="white">AU</text>
+    <rect x="74" y="178" width="108" height="8" rx="4" fill="white" opacity=".52"/>
+    </svg>

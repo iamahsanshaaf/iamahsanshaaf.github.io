@@ -1,38 +1,18 @@
-# Muhammad Ahsan Shaaf — Portfolio V3
+# Muhammad Ahsan Shaaf — Portfolio V5 Final
 
-Production-ready GitHub Pages portfolio for:
+Production GitHub Pages portfolio for `https://iamahsanshaaf.github.io/`.
 
-**https://iamahsanshaaf.github.io/**
+## V5 changes
+- Real Google Play app icons stored locally.
+- Apple app icons loaded from Apple's public Lookup API, with local app-specific fallbacks.
+- Exact App Store product links for the primary iOS cards.
+- Store section renamed and clarified to avoid implying ownership of every publisher account.
+- Upwork added.
+- WhatsApp corrected to +92 345 4230761 / 923454230761.
+- Polished reveal animations, card spotlights, portrait tilt, animated ambient glow, active nav, and scroll progress.
+- `prefers-reduced-motion` support.
 
-## Included in this package
+## Deploy
+Upload the extracted contents to the root of `iamahsanshaaf/iamahsanshaaf.github.io` and commit to `main`.
 
-- Full responsive portfolio website
-- Personal portrait integrated into hero
-- Modern dark navy / electric blue / cyan design system
-- Contact actions: Email, WhatsApp, LinkedIn, GitHub, X
-- iOS developer account section
-- Android developer account section
-- Selected apps grid across iOS and Android
-- Cleandense showcase
-- Services and portfolio showcase visuals
-- SEO metadata, Open Graph, JSON-LD
-- `404.html`, `robots.txt`, `sitemap.xml`, `.nojekyll`
-
-## Deployment
-
-Upload the extracted contents of this folder to the root of:
-
-`iamahsanshaaf/iamahsanshaaf.github.io`
-
-Use commit message:
-
-`Redesign portfolio v3`
-
-GitHub Pages will redeploy automatically.
-
-## Notes
-
-- WhatsApp link is wired to `+92 345 3230761`
-- Email is wired to `ahsanshaaf@gmail.com`
-- Upwork was not added because no exact public profile URL was provided in the brief.
-- If you later share the exact Upwork URL, it can be added in minutes.
+Suggested commit: `Launch final portfolio V5`
