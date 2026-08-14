@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Gold Scanner & Detector">
+<defs>
+  <linearGradient id="g" x1="24" y1="16" x2="142" y2="148" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#FFE7A1"/>
+    <stop offset=".36" stop-color="#F3BC42"/>
+    <stop offset="1" stop-color="#9C6300"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(54 42) rotate(44) scale(70)">
+    <stop stop-color="#fff" stop-opacity=".72"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="160" height="160" rx="40" fill="#15100A"/>
+<rect x="4" y="4" width="152" height="152" rx="36" fill="none" stroke="#F7D06D" stroke-opacity=".18"/>
+<rect x="14" y="14" width="132" height="132" rx="32" fill="url(#g)"/>
+<ellipse cx="54" cy="42" rx="43" ry="30" fill="url(#glow)"/>
+<path d="M42 106 57 62h46l15 44H42Z" fill="#3C2908" fill-opacity=".76" stroke="#fff" stroke-opacity=".82" stroke-width="5" stroke-linejoin="round"/>
+<path d="M55 82h50" stroke="#fff" stroke-opacity=".86" stroke-width="5" stroke-linecap="round"/>
+<circle cx="114" cy="48" r="9" fill="#fff" fill-opacity=".94"/>
+<path d="M111 48h6M114 45v6" stroke="#9B6600" stroke-width="2.4" stroke-linecap="round"/>
+</svg>
